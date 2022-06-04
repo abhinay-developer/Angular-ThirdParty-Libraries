@@ -4,7 +4,7 @@ Installations
 # Install Angular Material
   ng add @angular/material
   
-# Install Font Awesome free
+# Install Font Awesome Icons
   npm i @fortawesome/fontawesome-free
   
 # Install Bootstrap 
