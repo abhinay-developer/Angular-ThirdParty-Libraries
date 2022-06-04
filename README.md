@@ -21,4 +21,6 @@ Installations
  3.Boostrap 
  @import url("./../node_modules/bootstrap/dist/css/bootstrap.css");
 
+![Screenshot (5)](https://user-images.githubusercontent.com/63472859/172019606-6b5d1837-1faa-416f-b74d-5e064323b53e.png)
+
  
